@@ -1,2 +1,5 @@
-function timber:reset
-execute at @e[type=item,tag=!checked,sort=nearest,limit=1] run function timber:chop
+execute if block ~ ~ ~ #minecraft:logs run loot spawn ~ ~ ~ mine ~ ~ ~ mainhand
+execute if block ~ ~ ~ #minecraft:logs run setblock ~ ~ ~ air replace
+
+function timber:spread
+

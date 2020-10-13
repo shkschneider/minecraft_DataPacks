@@ -1,0 +1,27 @@
+execute positioned ~ ~1 ~ if block ~ ~ ~ #minecraft:logs run function timber:break
+#execute positioned ~ ~-1 ~ if block ~ ~ ~ #minecraft:logs run function timber:break
+execute positioned ~ ~ ~1 if block ~ ~ ~ #minecraft:logs run function timber:break
+execute positioned ~1 ~ ~ if block ~ ~ ~ #minecraft:logs run function timber:break
+execute positioned ~-1 ~ ~ if block ~ ~ ~ #minecraft:logs run function timber:break
+execute positioned ~ ~ ~-1 if block ~ ~ ~ #minecraft:logs run function timber:break
+execute positioned ~1 ~ ~1 if block ~ ~ ~ #minecraft:logs run function timber:break
+execute positioned ~-1 ~ ~1 if block ~ ~ ~ #minecraft:logs run function timber:break
+execute positioned ~1 ~ ~-1 if block ~ ~ ~ #minecraft:logs run function timber:break
+execute positioned ~-1 ~ ~-1 if block ~ ~ ~ #minecraft:logs run function timber:break
+execute positioned ~1 ~1 ~1 if block ~ ~ ~ #minecraft:logs run function timber:break
+execute positioned ~-1 ~1 ~1 if block ~ ~ ~ #minecraft:logs run function timber:break
+execute positioned ~1 ~1 ~-1 if block ~ ~ ~ #minecraft:logs run function timber:break
+execute positioned ~-1 ~1 ~-1 if block ~ ~ ~ #minecraft:logs run function timber:break
+#execute positioned ~1 ~-1 ~1 if block ~ ~ ~ #minecraft:logs run function timber:break
+#execute positioned ~-1 ~-1 ~1 if block ~ ~ ~ #minecraft:logs run function timber:break
+#execute positioned ~1 ~-1 ~-1 if block ~ ~ ~ #minecraft:logs run function timber:break
+#execute positioned ~-1 ~-1 ~-1 if block ~ ~ ~ #minecraft:logs run function timber:break
+execute positioned ~ ~1 ~1 if block ~ ~ ~ #minecraft:logs run function timber:break
+execute positioned ~1 ~1 ~ if block ~ ~ ~ #minecraft:logs run function timber:break
+execute positioned ~-1 ~1 ~ if block ~ ~ ~ #minecraft:logs run function timber:break
+execute positioned ~ ~1 ~-1 if block ~ ~ ~ #minecraft:logs run function timber:break
+#execute positioned ~ ~-1 ~1 if block ~ ~ ~ #minecraft:logs run function timber:break
+#execute positioned ~1 ~-1 ~ if block ~ ~ ~ #minecraft:logs run function timber:break
+#execute positioned ~-1 ~-1 ~ if block ~ ~ ~ #minecraft:logs run function timber:break
+#execute positioned ~ ~-1 ~-1 if block ~ ~ ~ #minecraft:logs run function timber:break
+
