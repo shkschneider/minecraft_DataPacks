@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "222",
+        "212",
+        "222"
+    ],
+    "key": {
+        "1": { "item": "minecraft:iron_ingot" },
+        "2": { "item": "minecraft:stone" }
+    },
+    "result": {
+        "item": "minecraft:iron_ore",
+        "count": 1
+    }
+}

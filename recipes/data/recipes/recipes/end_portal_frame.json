@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "222",
+        "212",
+        "222"
+    ],
+    "key": {
+        "1": { "item": "minecraft:ender_eye" },
+        "2": { "item": "minecraft:end_stone" }
+    },
+    "result": {
+        "item": "minecraft:end_portal_frame",
+        "count": 1
+    }
+}

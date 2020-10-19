@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " 2 ",
+        "212",
+        " 2 "
+    ],
+    "key": {
+        "1": { "item": "minecraft:lapis_lazuli" },
+        "2": { "item": "minecraft:obsidian" }
+    },
+    "result": {
+        "item": "minecraft:crying_obsidian",
+        "count": 1
+    }
+}
