@@ -15,4 +15,3 @@ execute as @a[predicate=timber:netherite] at @s at @e[distance=..7,type=item,nbt
 
 execute as @a[predicate=timber:diamond] at @s at @e[distance=..7,type=item,nbt={Age:0s,Item:{id:"minecraft:dark_oak_log"}}] run function timber:spread
 execute as @a[predicate=timber:timber_netherite] at @s at @e[distance=..7,type=item,nbt={Age:0s,Item:{id:"minecraft:dark_oak_log"}}] run function timber:spread
-
